@@ -1,0 +1,19 @@
+.Product {
+  width: 180px;
+  height: 210px;
+  display: inline-block;
+  float: left;
+  padding: 15px;
+  margin: 10px;
+  border: white solid 2px;
+  .Favourite {
+    float: right;
+  }
+  .Rating {
+    float: left;
+  }
+}
+
+.Product:hover {
+  border: steelblue solid 2px;
+}

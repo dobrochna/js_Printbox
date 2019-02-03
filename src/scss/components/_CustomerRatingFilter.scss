@@ -1,0 +1,16 @@
+.CustomerRatingFilter {
+  div {
+    &.Xbutton {
+      float: right;
+      padding: 0;
+      position: relative;
+      top: -70px;
+    }
+    .CheckBoxImage {
+      padding: 0 2px;
+      margin: 0 2px;
+      position: relative;
+      top: 2px;
+    }
+  }
+}

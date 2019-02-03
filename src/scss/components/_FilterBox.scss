@@ -1,0 +1,12 @@
+.FilterBox {
+  border: gray 1px solid;
+  padding: 5px 5px;
+  margin: 5px;
+  display: inline-block;
+  div {
+    &.Xbutton {
+      float: right;
+      padding-left: 10px;
+    }
+  }
+}

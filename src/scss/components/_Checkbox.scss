@@ -1,0 +1,19 @@
+.Checkbox {
+  display: inline;
+  margin: 1px;
+  label {
+    padding: 0 3px;
+  }
+  .Box {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background-color: #ccc;
+    img {
+      margin: 2px;
+    }
+  }
+  .productCount {
+    float: right;
+  }
+}
